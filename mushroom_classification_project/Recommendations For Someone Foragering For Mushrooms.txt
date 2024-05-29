@@ -1,0 +1,38 @@
+Using a limited number of features can help someone foraging for mushrooms decide if a mushroom is edible or poisonous with realistic efficiency. 
+
+#Recommendations To Avoid Poisonous Mushrooms
+
+Perform test in order
+1) Odor - 
+If mushroom has a noticeable odor, especially an unpleasant one, it is likely poisonous.
+Once mushroom fails smell test its best to assume its poison this captures 97.2% of poisonous mushrooms.
+No need to bother with other test risk is too high.
+3) Spore Print Color - 
+If spore print color is chocolate, white or green then the mushroom is likely poisonous
+4) Gill Size - 
+If the gills are narrow it is likely to be poisonous
+5) Gill Color - 
+If gill color is buff, white or yellow then mushroom is likly poisonous
+6) Stalk Surface Below Ring - 
+If stalk surface below ring is smooth or scaly then mushroom is likely poisonous
+7) Ring Number - 
+If ring number is one then mushroom is likely poisonous
+
+#Recommendations To Finding Edible Mushrooms
+
+Perform test in order
+
+1) Odor - 
+If mushroom has no odor or has almond or anise smell then mushroom is likely to be edible, further checks required to confirm.
+2) Spore Print Color - 
+If spore print color brown, black, chocolate, orange, yellow or buff then mushrooms are edible
+3) Gill Size - 
+If the gills are broad then mushrooms are edible
+4) Gill Color - 
+If gill color red, grey or pink then mushrooms are edible
+5) Stalk Surface Below Ring - 
+If stalk surface below ring fibrous or silky then mushrooms are edible
+6) Ring Number - 
+If ring number, mushrooms with two are edible
+
+if you follow these guidlines strictly the likelihood of you selecting edible mushrooms is about 100%
